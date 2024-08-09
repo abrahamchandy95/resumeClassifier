@@ -1,0 +1,1 @@
+from .imageVectorizer import docImageVectorizer
